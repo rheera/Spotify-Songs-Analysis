@@ -2,6 +2,8 @@
 
 Doing some analysis on the Top ~6000 songs on Spotify. From this Kaggle dataset: https://www.kaggle.com/datasets/julianoorlandi/spotify-top-songs-and-audio-features. 
 
+Collaborating with team members from Npower's Junior Data Analyst program.
+
 ## Table of Contents
 
 - [Tools](#tools)
